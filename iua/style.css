@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  background-color: navy;
+}
+
+canvas {
+  position: absolute;
+}
+
+#campas {
+  position: absolute;
+  height: 90%;
+  left: 35%;
+  top: 5%;
+}
+
+.building {
+  position: absolute;
+  height: 10%;
+}
+
+#bw {
+  left: 30%;
+  top: 35%;
+}
+
+#bp {
+  left: 40%;
+  top: 15%;
+}
+
+#bi {
+  left: 60%;
+  top: 1%;
+}
+
+#bs {
+  left: 50%;
+  top: 37%;
+}
